@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ElementsFormsAlerts, Frame  WindowsWidg_de52b0</name>
+   <tag></tag>
+   <elementGuidId>d8554a66-c56d-410d-ba4b-18754e24340e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.category-cards</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ElementsFormsAlerts, Frame &amp; WindowsWidgetsInteractionsBook Store Application&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>572f9a99-c8bb-4786-8e00-cf803b8daeae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>category-cards</value>
+      <webElementGuid>178c79df-1dde-478b-96f3-958bb736b97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ElementsFormsAlerts, Frame &amp; WindowsWidgetsInteractionsBook Store Application</value>
+      <webElementGuid>884d2e4c-586e-420d-a212-eb657597271a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]</value>
+      <webElementGuid>b053416a-b20b-4e3c-8cc7-f1cecd1596cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div</value>
+      <webElementGuid>c5010a32-b5d3-4cf8-bdae-1e06bff55b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div</value>
+      <webElementGuid>a14e8aa6-d68d-4c03-8a53-25ebbc5bf872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ElementsFormsAlerts, Frame &amp; WindowsWidgetsInteractionsBook Store Application' or . = 'ElementsFormsAlerts, Frame &amp; WindowsWidgetsInteractionsBook Store Application')]</value>
+      <webElementGuid>142118dd-68ff-46bf-ae8e-51b15571cd99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

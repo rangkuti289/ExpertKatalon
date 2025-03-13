@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>754501c8-a819-4d88-938f-2b64a8c2faed</webElementGuid>
+      <webElementGuid>1a21d5ee-583b-487c-ba6e-18cfc8d11829</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>subjects-auto-complete__option subjects-auto-complete__option--is-focused css-1n7v3ny-option</value>
-      <webElementGuid>c97493a1-567b-4c14-a63f-ecb0b45c4edf</webElementGuid>
+      <webElementGuid>2d48dc16-d2c2-4ca6-9a42-b15afe6df47a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-2-option-0</value>
-      <webElementGuid>49fb368d-6400-4deb-b062-f996faf55174</webElementGuid>
+      <webElementGuid>68d204bf-e655-4278-8162-ecb53070d7af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>22e08fc5-91a0-4d2a-821c-3b3a6826319d</webElementGuid>
+      <webElementGuid>7c95556d-7042-4872-9d1b-510fa57cbb3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>English</value>
-      <webElementGuid>a3ae02e2-2676-4ec3-a17b-5be9cd307d16</webElementGuid>
+      <webElementGuid>53dbd37c-3d22-4aaa-a668-8cc9dbfdde2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-2-option-0&quot;)</value>
-      <webElementGuid>59f7b921-8011-4577-b495-4ef02ee614ba</webElementGuid>
+      <webElementGuid>f53bbbdc-43de-4b36-9139-a4bfd101f7fb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-2-option-0']</value>
-      <webElementGuid>69ced0f9-92c1-4bd5-963a-e1549b39a24e</webElementGuid>
+      <webElementGuid>bb673483-0208-4ed2-b019-7a4b70050e0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='subjectsContainer']/div[2]/div/div</value>
-      <webElementGuid>c57b5650-9c39-4106-be9c-d0dc714a36a4</webElementGuid>
+      <webElementGuid>02d8efed-d682-4311-bce2-b822a42b9d73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='s'])[1]/following::div[4]</value>
-      <webElementGuid>8ffdb730-2e3e-407b-bf3b-b6b65a5263d1</webElementGuid>
+      <webElementGuid>932b139c-6c80-4670-9ac3-5eba380dd9e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/following::div[11]</value>
-      <webElementGuid>df4d118a-409d-41a7-817f-ea2aaf87e547</webElementGuid>
+      <webElementGuid>b7984ad5-960b-4fc4-81b0-4da109fd4c0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Maths'])[1]/preceding::div[1]</value>
-      <webElementGuid>ef8908fb-9a7c-4341-9d31-e8fa195f74d1</webElementGuid>
+      <webElementGuid>c8243b62-762c-4741-ad47-285a3baed728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Physics'])[1]/preceding::div[2]</value>
-      <webElementGuid>a004fe06-fe6e-4d17-9376-4ec82cc2008f</webElementGuid>
+      <webElementGuid>6d13ada7-a7b2-41b4-9547-ca02ab591c98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='English']/parent::*</value>
-      <webElementGuid>d077a823-2388-4109-9845-8bf5168c4ab8</webElementGuid>
+      <webElementGuid>87ef3982-860d-4801-bedf-c42cbebf699f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/div</value>
-      <webElementGuid>f0897865-997c-414d-a6d6-69157b0e5b50</webElementGuid>
+      <webElementGuid>f4e83403-c7ee-4f54-8596-62e3e68561f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-2-option-0' and (text() = 'English' or . = 'English')]</value>
-      <webElementGuid>9bdb6de5-65a6-4d52-9111-3b1673a8349f</webElementGuid>
+      <webElementGuid>d7f77f54-d302-4e62-a5cd-d3c0ee7f0aec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

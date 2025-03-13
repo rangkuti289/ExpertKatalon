@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>54ceb6d9-1a6f-4649-88d6-f1f1b7c32710</webElementGuid>
+      <webElementGuid>c1cbd4bc-fe18-47e7-a185-6f26016b6d87</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-light </value>
-      <webElementGuid>01d0981b-bdb6-4a58-8df6-74e7b92154f2</webElementGuid>
+      <webElementGuid>219b36e8-d43e-4f24-94eb-3627fc463259</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>item-0</value>
-      <webElementGuid>3be5ab8c-29db-436e-bd53-512a5a13e397</webElementGuid>
+      <webElementGuid>78fe8383-6cbf-47c4-99a9-3d282c858c97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Text Box</value>
-      <webElementGuid>63eba6c7-f790-4ac9-9601-96425fff7a2d</webElementGuid>
+      <webElementGuid>1ba12e37-bda1-4279-b6ab-b187c5da34b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/div[@class=&quot;element-list collapse show&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;item-0&quot;]</value>
-      <webElementGuid>17e80928-79fc-4832-bf5f-37198d7e7875</webElementGuid>
+      <webElementGuid>d9e05410-cca0-453a-bb0e-fce82a84b12c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='item-0']</value>
-      <webElementGuid>332828e5-b74f-433a-af3e-1315dbb270a7</webElementGuid>
+      <webElementGuid>c39131ec-b929-49b4-bdc6-27c99743098c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div/div/div/div/ul/li</value>
-      <webElementGuid>431ecabb-5400-4284-9c0f-536593a05b36</webElementGuid>
+      <webElementGuid>97630756-26d2-4775-a6fd-b853735da064</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Elements'])[1]/following::li[1]</value>
-      <webElementGuid>26cab555-5831-4cd5-a55f-d1c18f0daf21</webElementGuid>
+      <webElementGuid>bf6a76ca-4e68-419d-b097-5d3dc094239b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Box'])[1]/preceding::li[1]</value>
-      <webElementGuid>a639bba6-a8fc-416a-8a53-a9c455bd8eb4</webElementGuid>
+      <webElementGuid>dd37412b-f33d-4bb6-a463-ba697d4e09ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>f26d94d5-7ed9-4f2d-b670-18eaac54eb65</webElementGuid>
+      <webElementGuid>822c1103-b903-4a71-8200-65cc01a67e67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'item-0' and (text() = 'Text Box' or . = 'Text Box')]</value>
-      <webElementGuid>a5e400b8-d9a2-449f-a48b-d07215ed4689</webElementGuid>
+      <webElementGuid>4106b260-609a-40e7-a008-3313a028b475</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

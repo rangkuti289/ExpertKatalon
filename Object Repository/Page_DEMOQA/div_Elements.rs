@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f4927391-e075-4dcf-a668-ea51ba8eb224</webElementGuid>
+      <webElementGuid>86ff6240-fc04-4e91-a238-3e2a4d92c952</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card mt-4 top-card</value>
-      <webElementGuid>072995cf-6884-481b-8c9f-6d60ac54e1c8</webElementGuid>
+      <webElementGuid>8f7ede89-abc1-4e32-b456-406a876077be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Elements</value>
-      <webElementGuid>3b0caee7-cbfc-4f52-8dba-3e19668f289e</webElementGuid>
+      <webElementGuid>13b4e924-9033-44ba-8108-e981803a0bfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]/div[@class=&quot;card mt-4 top-card&quot;]</value>
-      <webElementGuid>d5c105bc-384a-42fc-9e46-4f21f3272aa9</webElementGuid>
+      <webElementGuid>bf701a8e-27ae-4bbb-b63b-156b3aa4f0fd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div[2]/div/div</value>
-      <webElementGuid>9b9f6dc4-12f6-41d1-8736-0ccc8995a73c</webElementGuid>
+      <webElementGuid>100f146a-21bd-449b-81f7-06492b97f155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forms'])[1]/preceding::div[7]</value>
-      <webElementGuid>83e5f64f-93e6-46f7-9907-b1a428df49d2</webElementGuid>
+      <webElementGuid>4b5ef5ae-1c17-4cee-889d-148928f7e377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div/div</value>
-      <webElementGuid>5e0bfa60-7171-47ce-a52c-9ca48ed9d307</webElementGuid>
+      <webElementGuid>2a622982-967c-4ddc-acfe-26337ca699e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Elements' or . = 'Elements')]</value>
-      <webElementGuid>3de1b107-2f2f-4a69-8a00-d2309ef3ae7d</webElementGuid>
+      <webElementGuid>ed3d37a4-0c6b-4e1f-859b-525a40e112f7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

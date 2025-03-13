@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ElementsText BoxCheck BoxRadio ButtonWe_072e06</name>
+   <tag></tag>
+   <elementGuidId>85df168e-cc15-4d79-a4df-073434448a46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.mt-4.col-md-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.col-12 >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83e14f7d-536b-4f25-ab9a-1d8ec95d0801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12 mt-4  col-md-3</value>
+      <webElementGuid>590afaba-d5e0-4802-99e2-2c2820acc121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store API</value>
+      <webElementGuid>7ebeec0d-95cf-42a1-9d05-5b1ea19de77c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]</value>
+      <webElementGuid>2fc127c2-bdd0-46ca-ae96-6e6cfc5e6107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div</value>
+      <webElementGuid>7ae088ef-7bd2-4edd-a82e-599978da04ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>347f6abd-0bae-4026-84a9-d20d33266069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store API' or . = 'Elements Text BoxCheck BoxRadio ButtonWeb TablesButtonsLinksBroken Links - ImagesUpload and DownloadDynamic PropertiesForms Practice FormAlerts, Frame &amp; Windows Browser WindowsAlertsFramesNested FramesModal DialogsWidgets AccordianAuto CompleteDate PickerSliderProgress BarTabsTool TipsMenuSelect MenuInteractions SortableSelectableResizableDroppableDragabbleBook Store Application LoginBook StoreProfileBook Store API')]</value>
+      <webElementGuid>941e0990-4bcc-416c-92d8-c787abc8615a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -73,11 +73,7 @@ WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_Select State'))
 
 WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_NCR'))
 
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_Select City'))
-
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_Noida'))
-
 WebUI.click(findTestObject('Object Repository/Page_DEMOQA/button_Submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/button_Close'))
+WebUI.closeBrowser()
 

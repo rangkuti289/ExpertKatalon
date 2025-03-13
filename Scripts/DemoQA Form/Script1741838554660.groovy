@@ -35,3 +35,5 @@ WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/textarea_Permanent A
 
 WebUI.click(findTestObject('Object Repository/Page_DEMOQA/button_Submit'))
 
+WebUI.closeBrowser()
+

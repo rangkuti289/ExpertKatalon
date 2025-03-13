@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d5c24383-02b7-473a-9dfa-3334f6212c2c</webElementGuid>
+      <webElementGuid>77ce7ea0-530a-4b46-ac93-6642b2842e3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-datepicker__day react-datepicker__day--031</value>
-      <webElementGuid>6e689786-f090-451d-aea0-bdf25b60a856</webElementGuid>
+      <webElementGuid>d7e8ae80-c755-47d1-9d0b-e17f51c7dc1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>fa6372f2-0804-42a4-8b8a-647e997d94bf</webElementGuid>
+      <webElementGuid>d78eec91-050b-4a64-b796-02ac6810bfb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Choose Thursday, August 31st, 2000</value>
-      <webElementGuid>1e70a07d-835b-4941-86b7-0d0e8bc8781c</webElementGuid>
+      <webElementGuid>daf8e595-efe8-4371-8538-ae0c8b4f6a1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>6f6f8bb2-1508-441d-95ea-ac55c0e21f6f</webElementGuid>
+      <webElementGuid>b16a5ab5-9141-4ca7-8fa0-0efadb525800</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a6ac1f4f-59c7-43f8-a741-5d8829db987c</webElementGuid>
+      <webElementGuid>f3818406-2873-4edd-ab59-6a9097428cb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>31</value>
-      <webElementGuid>99d5f3e6-98d4-41a9-8a42-3361ecd69dee</webElementGuid>
+      <webElementGuid>81a778c1-037e-4290-9d39-ba0a418d89ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateOfBirth&quot;)/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__month-container&quot;]/div[@class=&quot;react-datepicker__month&quot;]/div[@class=&quot;react-datepicker__week&quot;]/div[@class=&quot;react-datepicker__day react-datepicker__day--031&quot;]</value>
-      <webElementGuid>5ca63ec5-2d8d-444e-8194-eb8d5a200a69</webElementGuid>
+      <webElementGuid>f7cfc1f5-fc38-4a5b-9fca-83cd9db7860a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='dateOfBirth']/div[2]/div[2]/div/div/div[2]/div[2]/div[5]/div[5]</value>
-      <webElementGuid>f52c9c1e-b3cf-40d4-9155-088697f78730</webElementGuid>
+      <webElementGuid>5c4f7dc5-709d-45f7-92a2-f5804b347d61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[39]</value>
-      <webElementGuid>e41d3475-a31c-4455-84d0-7cd267b3157c</webElementGuid>
+      <webElementGuid>294b1ba0-59f4-498c-aeb1-9176054ae872</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::div[40]</value>
-      <webElementGuid>9adb64b9-099b-453f-8c9f-b680edf5618a</webElementGuid>
+      <webElementGuid>fa8c426c-a5d9-4820-a478-bbc7e91648b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/preceding::div[12]</value>
-      <webElementGuid>01e03187-2fd1-4cf6-92b0-63e59e56225b</webElementGuid>
+      <webElementGuid>ba39d7c6-a70b-431e-b650-29396d7777ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/preceding::div[23]</value>
-      <webElementGuid>b51234d1-33e2-497b-9a08-af4b93ab70f1</webElementGuid>
+      <webElementGuid>88ec76fe-a037-412c-a372-651810f3ef43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[5]</value>
-      <webElementGuid>7a3a20ce-c4ca-4ba2-af8a-03328e03da89</webElementGuid>
+      <webElementGuid>e84ab284-e273-4c84-8404-badbfb5a4202</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = '31' or . = '31')]</value>
-      <webElementGuid>1a83a007-5280-4ebb-bae5-978be25af0d0</webElementGuid>
+      <webElementGuid>b06092ef-da5a-4606-bda8-c72e6fcaf1a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

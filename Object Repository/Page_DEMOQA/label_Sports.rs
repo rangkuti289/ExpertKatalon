@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>9ca17471-8329-4153-ab93-abbc7c1e5e6f</webElementGuid>
+      <webElementGuid>8705b039-f116-4476-9849-036df4638a00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>for</name>
       <type>Main</type>
       <value>hobbies-checkbox-1</value>
-      <webElementGuid>40a11737-e2f0-44d1-8ced-00d59536bbd9</webElementGuid>
+      <webElementGuid>e3f2b2e0-f965-4ac5-ad67-ffcbec37ad4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>custom-control-label</value>
-      <webElementGuid>5c6c2f5c-aaaf-4d63-ba63-a36e42f6d6c4</webElementGuid>
+      <webElementGuid>2f852d90-24d3-4208-af3c-766d21c41c07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sports</value>
-      <webElementGuid>60c2cf07-b018-44a1-9ce5-6684273aa02e</webElementGuid>
+      <webElementGuid>07999f66-492e-429b-b587-8df035b3bf71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;hobbiesWrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;custom-control custom-checkbox custom-control-inline&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
-      <webElementGuid>e4e33757-4562-4af2-810e-5d434714966e</webElementGuid>
+      <webElementGuid>3f2c236c-6233-45d4-acfc-fc1116b56ee2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='hobbiesWrapper']/div[2]/div/label</value>
-      <webElementGuid>efed4806-c650-4a33-aeda-7166e7b218c2</webElementGuid>
+      <webElementGuid>cf9938a4-36d5-4e46-b200-e3590acc6471</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/following::label[1]</value>
-      <webElementGuid>f32a77b8-dc6e-43c0-86a6-ab64d08a35d2</webElementGuid>
+      <webElementGuid>a5e095c9-558e-4d2b-a120-7f54490b3e56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::label[2]</value>
-      <webElementGuid>8b2b3f4d-0d09-458a-a41d-36abb6a30158</webElementGuid>
+      <webElementGuid>727e5182-3fd2-4f6e-abd0-c24cb66a5e21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reading'])[1]/preceding::label[1]</value>
-      <webElementGuid>66fd5566-26ff-4ed2-a9e0-cd39a3104e55</webElementGuid>
+      <webElementGuid>ce9d37b9-ce21-4e5c-a8cc-0a8814fb6161</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/preceding::label[2]</value>
-      <webElementGuid>9cf4bb38-01b1-4710-988b-f9f9d1681dd0</webElementGuid>
+      <webElementGuid>7e9001ef-15db-4365-8e7b-0117b7a56931</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sports']/parent::*</value>
-      <webElementGuid>4a5d4ce3-a8de-44e5-9c69-48ca7f06b6c8</webElementGuid>
+      <webElementGuid>84fe084c-a945-4476-8368-1bce7cb1210c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div[2]/div/label</value>
-      <webElementGuid>627fd9f4-3ad1-4a4a-99ab-0eb010ee1870</webElementGuid>
+      <webElementGuid>f382e830-029c-42fb-8665-fda2c485b6c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Sports' or . = 'Sports')]</value>
-      <webElementGuid>3d8000a0-a87c-4278-aa6e-111656e941e1</webElementGuid>
+      <webElementGuid>ef0955b6-67f4-4ee8-89be-f4c6e0b6feca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
