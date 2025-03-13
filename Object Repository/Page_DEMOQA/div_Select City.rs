@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select City</name>
+   <tag></tag>
+   <elementGuidId>a17d9c70-a301-4019-abb7-92408bc4a00c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1wa3eu0-placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='city']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Select City&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdbc9bcc-8206-4433-87b5-6c32223ebf95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wa3eu0-placeholder</value>
+      <webElementGuid>c35d668b-b1c2-4cc1-a77f-82e040211d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select City</value>
+      <webElementGuid>a6a1a834-c2f5-4967-9803-ddd9fa6242c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;city&quot;)/div[@class=&quot;css-1pahdxg-control&quot;]/div[@class=&quot;css-1hwfws3&quot;]/div[@class=&quot;css-1wa3eu0-placeholder&quot;]</value>
+      <webElementGuid>1c44cce6-17be-4542-91cc-064672c86aa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='city']/div/div/div</value>
+      <webElementGuid>be731738-82c5-4d44-93e9-3adaa9da610c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NCR'])[1]/following::div[10]</value>
+      <webElementGuid>acf89890-b31d-4e66-b5b4-e32fb2025845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State and City'])[1]/following::div[15]</value>
+      <webElementGuid>4de4feac-56a5-43c9-bf99-173c393694ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delhi'])[1]/preceding::div[6]</value>
+      <webElementGuid>9058adf1-658a-4dce-83b9-ceba9bf8f002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gurgaon'])[1]/preceding::div[7]</value>
+      <webElementGuid>d7db4b37-37c4-4a9f-b475-b6179b397b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select City']/parent::*</value>
+      <webElementGuid>2a3fa6cc-dfe4-4eea-a2e0-b34bea4314e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>a20860b0-a808-4967-9e2b-b11ce280f266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select City' or . = 'Select City')]</value>
+      <webElementGuid>e03539e5-c91e-4f64-8f7e-0bbd450d0d28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

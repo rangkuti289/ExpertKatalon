@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Forms</name>
+   <tag></tag>
+   <elementGuidId>757fc0de-1916-4841-992c-313510b3a076</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div/div[2]/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Forms&quot;i >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7856dda-aa5f-49db-85c9-bf6a882fb99a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-wrapper</value>
+      <webElementGuid>bfed4ba2-3a0c-438b-95a2-8d99d3c137e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forms </value>
+      <webElementGuid>37ed8126-a00c-4fa4-9fbe-812c8b46fdd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/span[@class=&quot;group-header&quot;]/div[@class=&quot;header-wrapper&quot;]</value>
+      <webElementGuid>fa8be417-efe7-4200-aae8-9ae88ba9df9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div/div[2]/span/div</value>
+      <webElementGuid>f999904e-79c8-4096-84e3-4283faae41a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Properties'])[1]/following::div[2]</value>
+      <webElementGuid>4a62ded9-5550-4541-a024-30865cee4484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload and Download'])[1]/following::div[2]</value>
+      <webElementGuid>c85d1d4d-a7f7-449e-95e4-fc41f0f574ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Form'])[1]/preceding::div[5]</value>
+      <webElementGuid>8db508e9-f441-473e-8b55-1f8d6ec0f181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/div</value>
+      <webElementGuid>3f069a30-00f1-477e-9cd4-76a68bc3cd83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Forms ' or . = 'Forms ')]</value>
+      <webElementGuid>2fee5d1c-a18f-4d83-b934-373bc296da46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

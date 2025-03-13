@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Web Demo QA Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f27bdc2a-fdc6-404e-9d13-aa49d0780f35</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Practice Form</name>
+   <tag></tag>
+   <elementGuidId>bef3a402-cfb6-4b44-86eb-cd9121860fdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.element-list.collapse.show > ul.menu-list > #item-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='item-0'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listitem</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>681ccab2-fa11-4291-a20d-ee9b49f004d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light </value>
+      <webElementGuid>83622687-fec1-4f74-8faf-5506149ad025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>item-0</value>
+      <webElementGuid>f36ae551-4a53-4f63-9376-3f4bff0e2109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Practice Form</value>
+      <webElementGuid>93002d72-e71e-4ced-9fcc-8b2ca8427ce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/div[@class=&quot;element-list collapse show&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;item-0&quot;]</value>
+      <webElementGuid>a09b3eb8-e247-4914-bc2c-7e2e720a0439</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//li[@id='item-0'])[2]</value>
+      <webElementGuid>48cdbc99-d1b3-4387-8e0a-4742181b410a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div/div[2]/div/ul/li</value>
+      <webElementGuid>d86f2596-96b1-4757-8d3b-2da2dc414a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forms'])[1]/following::li[1]</value>
+      <webElementGuid>0a8816c4-1a00-45b4-ab74-d954227c270d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Properties'])[1]/following::li[1]</value>
+      <webElementGuid>3bb29340-61db-4664-9d45-bb2bcfe83527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts, Frame &amp; Windows'])[1]/preceding::li[1]</value>
+      <webElementGuid>b74bea13-a874-4575-bce6-3b553726d11f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li</value>
+      <webElementGuid>2d3ad252-4056-49ef-9303-9b093c99313b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'item-0' and (text() = 'Practice Form' or . = 'Practice Form')]</value>
+      <webElementGuid>372d64f7-62c1-494d-9ed3-08cb959ce0f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

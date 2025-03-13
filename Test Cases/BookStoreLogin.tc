@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BookStoreLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e9f1dfb-c777-4522-ab63-3431bed60401</testCaseGuid>
+</TestCaseEntity>
