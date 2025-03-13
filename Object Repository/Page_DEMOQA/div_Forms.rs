@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/div/div/div/div/div[2]/span/div</value>
+         <value>//div[@id='app']/div/div/div[2]/div/div[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>span >> internal:has-text=&quot;Forms&quot;i >> div >> nth=0</value>
+         <value>div >> internal:has-text=/^Forms$/ >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,39 +29,79 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>12531cca-6385-4bbc-9f31-7faa0fd4f504</webElementGuid>
+      <webElementGuid>f1d88608-a7f3-4ead-970c-9f52e78160fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>header-wrapper</value>
-      <webElementGuid>ba126229-72d5-4445-8de0-f09f326e9282</webElementGuid>
+      <value>card mt-4 top-card</value>
+      <webElementGuid>d31b5631-d2a8-4066-bbd8-5c276220b473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Forms </value>
-      <webElementGuid>e3a3480b-ff6b-41cc-b030-98ead7257c4c</webElementGuid>
+      <value>Forms</value>
+      <webElementGuid>bd6f76c0-f3aa-405f-a1bd-9766dc2db365</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/span[@class=&quot;group-header&quot;]/div[@class=&quot;header-wrapper&quot;]</value>
-      <webElementGuid>a92af905-abcf-4a53-86e0-2078c474f6ab</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;home-content&quot;]/div[@class=&quot;home-body&quot;]/div[@class=&quot;category-cards&quot;]/div[@class=&quot;card mt-4 top-card&quot;]</value>
+      <webElementGuid>9a38b70a-2325-4b5b-970e-bfbc77b283ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>b5c93924-3278-4818-bce9-0ed641585833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elements'])[1]/following::div[1]</value>
+      <webElementGuid>efb24e65-6bcc-4608-a159-bdc7a6804554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts, Frame &amp; Windows'])[1]/preceding::div[7]</value>
+      <webElementGuid>953e9706-2f96-45b2-b3dd-7e035655fa9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>c2daec61-ff22-4695-ac8e-cea013b00851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Forms' or . = 'Forms')]</value>
+      <webElementGuid>43ca2b9f-ba2f-4e60-9651-6ab282fd7681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div/div/div[2]/span/div</value>
-      <webElementGuid>31ff346d-b583-487c-a30f-e56e386fb6f6</webElementGuid>
+      <webElementGuid>c85ec342-897d-4bfc-b4a0-073375c5268c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Properties'])[1]/following::div[2]</value>
-      <webElementGuid>0251d8a4-5512-4b52-bb3d-a59ec98c18db</webElementGuid>
+      <webElementGuid>5313437c-7ba9-4972-b776-abd95080d659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload and Download'])[1]/following::div[2]</value>
-      <webElementGuid>6af330a0-4b0c-4143-8043-29ed79051c87</webElementGuid>
+      <webElementGuid>d151b83c-23c7-4d21-9f99-59f079e3d861</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Form'])[1]/preceding::div[5]</value>
-      <webElementGuid>20a82540-2bd3-485d-b165-7d808c4f4296</webElementGuid>
+      <webElementGuid>b13316bc-4f3f-431e-97a7-96cfcb7939ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span/div</value>
-      <webElementGuid>e228c6dd-49bd-4734-8471-9598c6880912</webElementGuid>
+      <webElementGuid>e6226ded-7a1d-4597-bb78-b58c476c1b15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Forms ' or . = 'Forms ')]</value>
-      <webElementGuid>4a52669b-e8cf-4d85-bdcd-c3202c6fe47e</webElementGuid>
+      <webElementGuid>59aee0bf-edcb-441b-a357-aa3dbb80a69f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

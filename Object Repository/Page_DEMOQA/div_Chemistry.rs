@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_NCR</name>
+   <name>div_Chemistry</name>
    <tag></tag>
-   <elementGuidId>a2005426-7fe4-4afe-8b2b-24fc11cdebf2</elementGuidId>
+   <elementGuidId>f043f6a7-dbcb-49d7-938d-4235f045ac29</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#react-select-3-option-0</value>
+         <value>#react-select-2-option-1</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-3-option-0']</value>
+         <value>//div[@id='react-select-2-option-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;NCR&quot;s</value>
+         <value>internal:text=&quot;Chemistry&quot;s</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3c1de6ce-f93f-480a-918c-5e55a0343d7c</webElementGuid>
+      <webElementGuid>0aa00a85-f90c-434f-9c64-bb2fd32b5a91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> css-1n7v3ny-option</value>
-      <webElementGuid>f0f13ab1-f36a-4857-b803-e0214701873b</webElementGuid>
+      <value>subjects-auto-complete__option subjects-auto-complete__option--is-focused css-1n7v3ny-option</value>
+      <webElementGuid>8395e121-dd39-4b1e-83ff-3635d0099c09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>react-select-3-option-0</value>
-      <webElementGuid>22e589c2-f9ff-4f56-a510-775afc33b948</webElementGuid>
+      <value>react-select-2-option-1</value>
+      <webElementGuid>56118847-44eb-4449-9fd5-63f7046f95f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,94 +53,94 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>45d7bba5-dfe8-40b4-a178-11460ea0032e</webElementGuid>
+      <webElementGuid>76813add-3dad-489d-96b3-1526712f684f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>NCR</value>
-      <webElementGuid>df9324ae-6a41-42e3-ad65-9495fcc0bcf9</webElementGuid>
+      <value>Chemistry</value>
+      <webElementGuid>2a20424f-cbbd-4618-88f8-e135e322d54d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-3-option-0&quot;)</value>
-      <webElementGuid>116af871-d9af-4a27-a200-99fc6c09af56</webElementGuid>
+      <value>id(&quot;react-select-2-option-1&quot;)</value>
+      <webElementGuid>f31b5483-41d9-4ce7-b154-f37616a3ebb9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='react-select-3-option-0']</value>
-      <webElementGuid>16b70c99-e9f3-402e-b066-a4ce519342b5</webElementGuid>
+      <value>//div[@id='react-select-2-option-1']</value>
+      <webElementGuid>b84fd6a4-f251-46a0-af40-bebde6d34b5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='state']/div[2]/div/div</value>
-      <webElementGuid>9ff999bc-041a-45c1-8518-d9c25461dd65</webElementGuid>
+      <value>//div[@id='subjectsContainer']/div[2]/div/div[2]</value>
+      <webElementGuid>03671665-0836-4a1c-bf55-b0e04a188851</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select State'])[1]/following::div[8]</value>
-      <webElementGuid>aefb382c-565c-4db0-8968-341176ad0fb7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::div[1]</value>
+      <webElementGuid>2cd7a47d-c58a-428b-be48-a32254c26f90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='State and City'])[1]/following::div[13]</value>
-      <webElementGuid>e4f1c684-e7d8-4396-80f1-a6b10d0b2dc5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e'])[1]/following::div[5]</value>
+      <webElementGuid>7b408fd0-7bc8-400b-a33c-389bce398c5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uttar Pradesh'])[1]/preceding::div[1]</value>
-      <webElementGuid>95225847-1b14-4547-b28a-964f3b06d498</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computer Science'])[1]/preceding::div[1]</value>
+      <webElementGuid>b4bd8eaf-c252-4513-8c8d-e3304ec07eda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Haryana'])[1]/preceding::div[2]</value>
-      <webElementGuid>a7210620-0db2-479e-bf17-4a5e7d3c18b2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commerce'])[1]/preceding::div[2]</value>
+      <webElementGuid>653fdb47-513b-46b2-bf1e-f7c11495049b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='NCR']/parent::*</value>
-      <webElementGuid>3dc22706-2447-485a-b5c8-8907a2534eab</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Chemistry']/parent::*</value>
+      <webElementGuid>737eac22-8e46-4bf1-9f64-fd483e5dc46a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div/div</value>
-      <webElementGuid>f7e6fd38-2d63-4e5d-91a2-c2ffba6e604d</webElementGuid>
+      <value>//div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>4d81be95-06bb-47df-b84d-b8e009d6203a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'react-select-3-option-0' and (text() = 'NCR' or . = 'NCR')]</value>
-      <webElementGuid>4c2ca0dd-ce1b-4ea1-b526-7ed65f930bda</webElementGuid>
+      <value>//div[@id = 'react-select-2-option-1' and (text() = 'Chemistry' or . = 'Chemistry')]</value>
+      <webElementGuid>0be6ca51-e0a8-40e1-892f-869651be076b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

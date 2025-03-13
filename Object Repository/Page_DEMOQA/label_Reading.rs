@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_NCR</name>
+   <name>label_Reading</name>
    <tag></tag>
-   <elementGuidId>a2005426-7fe4-4afe-8b2b-24fc11cdebf2</elementGuidId>
+   <elementGuidId>71d6c807-f550-457e-9a0a-db9a430791d4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#react-select-3-option-0</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-3-option-0']</value>
+         <value>//div[@id='hobbiesWrapper']/div[2]/div[2]/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;NCR&quot;s</value>
+         <value>internal:text=&quot;Reading&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,119 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>3c1de6ce-f93f-480a-918c-5e55a0343d7c</webElementGuid>
+      <value>label</value>
+      <webElementGuid>7ca47747-bcd5-48b2-bbf3-721779d6cbb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>hobbies-checkbox-2</value>
+      <webElementGuid>3e15c17d-2a6d-4385-a2ca-4b08699b7180</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> css-1n7v3ny-option</value>
-      <webElementGuid>f0f13ab1-f36a-4857-b803-e0214701873b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>react-select-3-option-0</value>
-      <webElementGuid>22e589c2-f9ff-4f56-a510-775afc33b948</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>45d7bba5-dfe8-40b4-a178-11460ea0032e</webElementGuid>
+      <value>custom-control-label</value>
+      <webElementGuid>6ca6847c-2883-4a5d-8a4d-79e7338cc584</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>NCR</value>
-      <webElementGuid>df9324ae-6a41-42e3-ad65-9495fcc0bcf9</webElementGuid>
+      <value>Reading</value>
+      <webElementGuid>f8a4f9b7-d232-43d9-96a1-d4c224ef76f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-select-3-option-0&quot;)</value>
-      <webElementGuid>116af871-d9af-4a27-a200-99fc6c09af56</webElementGuid>
+      <value>id(&quot;hobbiesWrapper&quot;)/div[@class=&quot;col-md-9 col-sm-12&quot;]/div[@class=&quot;custom-control custom-checkbox custom-control-inline&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>0673ce86-e5a7-454e-b62b-4becc8c6459f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//div[@id='react-select-3-option-0']</value>
-      <webElementGuid>16b70c99-e9f3-402e-b066-a4ce519342b5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='state']/div[2]/div/div</value>
-      <webElementGuid>9ff999bc-041a-45c1-8518-d9c25461dd65</webElementGuid>
+      <value>//div[@id='hobbiesWrapper']/div[2]/div[2]/label</value>
+      <webElementGuid>d82fae2f-eda6-46c4-a81a-2f2d19270bb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select State'])[1]/following::div[8]</value>
-      <webElementGuid>aefb382c-565c-4db0-8968-341176ad0fb7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/following::label[1]</value>
+      <webElementGuid>7b8883cb-fd43-4439-a1c5-46bdd03a3c41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='State and City'])[1]/following::div[13]</value>
-      <webElementGuid>e4f1c684-e7d8-4396-80f1-a6b10d0b2dc5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/following::label[2]</value>
+      <webElementGuid>8d1102f7-f257-42d1-9a48-ef4bf53b9646</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uttar Pradesh'])[1]/preceding::div[1]</value>
-      <webElementGuid>95225847-1b14-4547-b28a-964f3b06d498</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Music'])[1]/preceding::label[1]</value>
+      <webElementGuid>30fb7824-2d17-45db-8d43-04181f818909</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Haryana'])[1]/preceding::div[2]</value>
-      <webElementGuid>a7210620-0db2-479e-bf17-4a5e7d3c18b2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Picture'])[1]/preceding::label[2]</value>
+      <webElementGuid>7a6e20a8-c80e-48f0-8599-546aa7e23eb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='NCR']/parent::*</value>
-      <webElementGuid>3dc22706-2447-485a-b5c8-8907a2534eab</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Reading']/parent::*</value>
+      <webElementGuid>6da314eb-27af-4293-9b5c-f4287a0795a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/div/div</value>
-      <webElementGuid>f7e6fd38-2d63-4e5d-91a2-c2ffba6e604d</webElementGuid>
+      <value>//div[7]/div[2]/div[2]/label</value>
+      <webElementGuid>286e1ec8-fc0f-44cd-8708-78f01a07c11b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[@id = 'react-select-3-option-0' and (text() = 'NCR' or . = 'NCR')]</value>
-      <webElementGuid>4c2ca0dd-ce1b-4ea1-b526-7ed65f930bda</webElementGuid>
+      <value>//label[(text() = 'Reading' or . = 'Reading')]</value>
+      <webElementGuid>20388daf-aa7f-46de-9ea5-a70fa7ca80a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

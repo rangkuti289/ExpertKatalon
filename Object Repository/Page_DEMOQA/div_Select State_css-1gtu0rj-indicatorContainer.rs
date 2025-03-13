@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Subjects_subjects-auto-complete__value-_d244cf</name>
+   <name>div_Select State_css-1gtu0rj-indicatorContainer</name>
    <tag></tag>
-   <elementGuidId>43a64815-6547-433d-8bbc-266d6c42d663</elementGuidId>
+   <elementGuidId>2e207f5d-1942-4c26-a426-1c3fa219f9f0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.subjects-auto-complete__value-container.subjects-auto-complete__value-container--is-multi.css-1hwfws3</value>
+         <value>div.css-1gtu0rj-indicatorContainer</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='subjectsContainer']/div/div</value>
+         <value>//div[@id='state']/div/div[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.subjects-auto-complete__value-container</value>
+         <value>.css-1gtu0rj-indicatorContainer</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,70 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>afd6d1c5-aa6b-4993-9af0-2b762d2d9a36</webElementGuid>
+      <webElementGuid>6aff67ba-d30f-4eff-9f6e-32761df127c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ec0ee24b-0300-4cb9-b55d-6a04d1e404d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3</value>
-      <webElementGuid>9d058deb-751d-4c15-a3ed-947134317336</webElementGuid>
+      <value> css-1gtu0rj-indicatorContainer</value>
+      <webElementGuid>df3ff44c-e277-49f5-a616-e8f4f2d04e30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;subjectsContainer&quot;)/div[@class=&quot;subjects-auto-complete__control subjects-auto-complete__control--is-focused subjects-auto-complete__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3&quot;]</value>
-      <webElementGuid>98fb08fd-2456-4e62-91f6-22c2bc8d3ab0</webElementGuid>
+      <value>id(&quot;state&quot;)/div[@class=&quot;css-1pahdxg-control&quot;]/div[@class=&quot;css-1wy0on6&quot;]/div[@class=&quot;css-1gtu0rj-indicatorContainer&quot;]</value>
+      <webElementGuid>a3098425-5198-4d4a-9c60-e2b7146fa5be</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='subjectsContainer']/div/div</value>
-      <webElementGuid>6e301b7a-c891-4f5b-a1e7-961675e7379e</webElementGuid>
+      <value>//div[@id='state']/div/div[2]/div</value>
+      <webElementGuid>df49d777-68c6-4ca7-90df-aa59dbefa025</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subjects'])[1]/following::div[4]</value>
-      <webElementGuid>a84b6b1a-20f8-44b9-9c51-872e921046c2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select State'])[1]/following::div[5]</value>
+      <webElementGuid>6936f30d-8a14-434d-9fce-0ab1804ba469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::div[9]</value>
-      <webElementGuid>546a7ae0-1521-45ff-9da7-d16d91a1580c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State and City'])[1]/following::div[10]</value>
+      <webElementGuid>b8d88ad8-9fc3-486f-9568-2d82e643b0ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hobbies'])[1]/preceding::div[6]</value>
-      <webElementGuid>8d573ea8-379e-4ac7-a88a-7e519702cfbd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NCR'])[1]/preceding::div[1]</value>
+      <webElementGuid>198941f1-2d0f-499d-b9e3-51eb01ada3ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sports'])[1]/preceding::div[7]</value>
-      <webElementGuid>011ae099-3508-4eb4-b42d-22fadfd50437</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uttar Pradesh'])[1]/preceding::div[2]</value>
+      <webElementGuid>129bda1f-26a0-4d4d-af9b-e7f362ad8ee1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div[2]/div/div/div</value>
-      <webElementGuid>bc1131f5-7f30-41dd-9d96-5a4de94ef295</webElementGuid>
+      <value>//div[10]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>65bbf3ee-5eff-45bb-baee-882ec4baf3a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>0e8c4d46-30bf-489c-be13-facbf5f01349</webElementGuid>
+      <webElementGuid>5f5de9a3-d8db-4348-88b4-70ccedb1b592</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-datepicker__year-select</value>
-      <webElementGuid>4643760e-c999-4096-8a73-1ac70a07524e</webElementGuid>
+      <webElementGuid>6a37e618-6d5b-4950-ab37-ba73c6585505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>190019011902190319041905190619071908190919101911191219131914191519161917191819191920192119221923192419251926192719281929193019311932193319341935193619371938193919401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025202620272028202920302031203220332034203520362037203820392040204120422043204420452046204720482049205020512052205320542055205620572058205920602061206220632064206520662067206820692070207120722073207420752076207720782079208020812082208320842085208620872088208920902091209220932094209520962097209820992100</value>
-      <webElementGuid>84c804d3-61d8-41d7-b39c-a1603a614b8c</webElementGuid>
+      <webElementGuid>573ae3b6-72dc-40b9-a257-e3f5974ba60e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dateOfBirth&quot;)/div[@class=&quot;react-datepicker__tab-loop&quot;]/div[@class=&quot;react-datepicker-popper&quot;]/div[1]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__month-container&quot;]/div[@class=&quot;react-datepicker__header&quot;]/div[@class=&quot;react-datepicker__header__dropdown react-datepicker__header__dropdown--select&quot;]/div[@class=&quot;react-datepicker__year-dropdown-container react-datepicker__year-dropdown-container--select&quot;]/select[@class=&quot;react-datepicker__year-select&quot;]</value>
-      <webElementGuid>268523d8-43fc-43bf-bca3-072b0d61bf01</webElementGuid>
+      <webElementGuid>3038dfca-fccf-44d2-86b6-fc14eb1b9fd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,15 +61,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='dateOfBirth']/div[2]/div[2]/div/div/div[2]/div/div[2]/div[2]/select</value>
-      <webElementGuid>415c85cf-e5ec-4771-8fb8-9e0881573acb</webElementGuid>
+      <webElementGuid>bd30237e-fd22-4dbc-99f3-8b6964d0cf6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2025'])[1]/following::select[2]</value>
-      <webElementGuid>86ed7585-d4be-4920-adaf-7d803d84df5e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='March 2025'])[1]/following::select[2]</value>
+      <webElementGuid>25a90dfe-56e5-463e-af55-b483fed6e736</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Month'])[1]/following::select[2]</value>
-      <webElementGuid>a05f532f-50b9-4f4c-93d0-77ea321c1103</webElementGuid>
+      <webElementGuid>afeb7b7b-41fe-4815-8e00-8923ed9ebbbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::select[1]</value>
-      <webElementGuid>006199de-5854-47be-b1e2-1de99dd6a7f4</webElementGuid>
+      <webElementGuid>67c94b76-04ce-4de1-8de5-66d8e6c51fed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::select[1]</value>
-      <webElementGuid>11cf71ee-19b8-47a0-892a-365e1313732c</webElementGuid>
+      <webElementGuid>a209fc52-1243-4167-be08-d53aa8169beb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>802a35d8-646b-4b9c-907a-748e52f7e0e9</webElementGuid>
+      <webElementGuid>e0feb4bb-109f-4c4c-a775-8fd30d9c78c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[(text() = '190019011902190319041905190619071908190919101911191219131914191519161917191819191920192119221923192419251926192719281929193019311932193319341935193619371938193919401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025202620272028202920302031203220332034203520362037203820392040204120422043204420452046204720482049205020512052205320542055205620572058205920602061206220632064206520662067206820692070207120722073207420752076207720782079208020812082208320842085208620872088208920902091209220932094209520962097209820992100' or . = '190019011902190319041905190619071908190919101911191219131914191519161917191819191920192119221923192419251926192719281929193019311932193319341935193619371938193919401941194219431944194519461947194819491950195119521953195419551956195719581959196019611962196319641965196619671968196919701971197219731974197519761977197819791980198119821983198419851986198719881989199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025202620272028202920302031203220332034203520362037203820392040204120422043204420452046204720482049205020512052205320542055205620572058205920602061206220632064206520662067206820692070207120722073207420752076207720782079208020812082208320842085208620872088208920902091209220932094209520962097209820992100')]</value>
-      <webElementGuid>2f700ead-c996-42ec-b8ce-fb894da68bed</webElementGuid>
+      <webElementGuid>208ae8ad-3aba-4cc0-9c5d-50f8801bfc16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 2025'])[1]/following::select[2]</value>
+      <webElementGuid>cb766cc3-bdec-43e3-be0a-6a3be5690e64</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

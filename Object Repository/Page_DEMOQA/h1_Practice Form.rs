@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>li_Practice Form</name>
+   <name>h1_Practice Form</name>
    <tag></tag>
-   <elementGuidId>bef3a402-cfb6-4b44-86eb-cd9121860fdc</elementGuidId>
+   <elementGuidId>739d1c79-a3ee-4037-8675-44b8bc62dd6a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.element-list.collapse.show > ul.menu-list > #item-0</value>
+         <value>h1.text-center</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//li[@id='item-0'])[2]</value>
+         <value>//div[@id='app']/div/div/div/div[2]/div[2]/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=listitem</value>
+         <value>internal:role=heading[name=&quot;Practice Form&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,24 +28,16 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>li</value>
-      <webElementGuid>7412d44a-ac16-4443-9060-87949bce7f93</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>4adead8d-01a5-4d1c-8199-f3d183dff043</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-light </value>
-      <webElementGuid>9a161a73-6f3f-450f-8482-7d6adf490c06</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>item-0</value>
-      <webElementGuid>d4ac9d51-56b0-4bb8-817d-8af8127e7d2d</webElementGuid>
+      <value>text-center</value>
+      <webElementGuid>9d1e13e0-4277-4794-b7b3-abd5a175e421</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,70 +45,70 @@
       <name>text</name>
       <type>Main</type>
       <value>Practice Form</value>
-      <webElementGuid>6b87fb5e-28c5-4f0a-86e9-913064fee111</webElementGuid>
+      <webElementGuid>98ce2aa8-840e-4200-90f5-6ba5fe63b932</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4  col-md-3&quot;]/div[@class=&quot;left-pannel&quot;]/div[@class=&quot;accordion&quot;]/div[@class=&quot;element-group&quot;]/div[@class=&quot;element-list collapse show&quot;]/ul[@class=&quot;menu-list&quot;]/li[@id=&quot;item-0&quot;]</value>
-      <webElementGuid>3ffc4b60-fa27-4e30-ab8d-9120f8127acb</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[@class=&quot;practice-form-wrapper&quot;]/h1[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>b89e78bd-4b8a-45fa-b6ed-a7156cc0b343</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//li[@id='item-0'])[2]</value>
-      <webElementGuid>913c1b09-77b7-4a27-b630-052ab2ef0495</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/div/div/div/div/div[2]/div/ul/li</value>
-      <webElementGuid>1349c36d-671a-4d66-9d2a-4300ad07fd7d</webElementGuid>
+      <value>//div[@id='app']/div/div/div/div[2]/div[2]/h1</value>
+      <webElementGuid>223fc62f-3721-4487-a3f5-5eefbf244af0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forms'])[1]/following::li[1]</value>
-      <webElementGuid>4423cd81-2c60-401f-96cd-9eca549bc8bb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Store API'])[1]/following::h1[1]</value>
+      <webElementGuid>142e09f2-c289-4e18-9b1a-8018c616c210</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Properties'])[1]/following::li[1]</value>
-      <webElementGuid>c85499c2-f2b4-40d5-be2e-4936206af168</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::h1[1]</value>
+      <webElementGuid>95d6e867-4fe2-47a8-a281-4c21638b53d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alerts, Frame &amp; Windows'])[1]/preceding::li[1]</value>
-      <webElementGuid>23ea9437-ecb0-42c3-89e0-3da5634b70d1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Registration Form'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ab0b1869-f9cf-4f29-b74f-068ad6771fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e41be77b-ac74-4d6a-a390-611bd8f40943</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/ul/li</value>
-      <webElementGuid>7a141453-4d3f-47b2-80b7-28d82895692f</webElementGuid>
+      <value>//h1</value>
+      <webElementGuid>8257fbe1-0db9-48ac-acb6-5c92bb2b8133</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//li[@id = 'item-0' and (text() = 'Practice Form' or . = 'Practice Form')]</value>
-      <webElementGuid>748ba797-6413-4ccc-816a-b4a43f2a1dc9</webElementGuid>
+      <value>//h1[(text() = 'Practice Form' or . = 'Practice Form')]</value>
+      <webElementGuid>e8b394de-7135-490a-981f-a9069fc6dfd5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
