@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login And Appointment,Chrome 134.0.6998.37,,,13-03-2025 10:30:25,13-03-2025 10:30:46,21.148s,PASSED
+,,,,,,,
+Test Cases/Login,Chrome 134.0.6998.37,,,13-03-2025 10:30:25,13-03-2025 10:30:34,8.581s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 10:30:25,13-03-2025 10:30:28,2.268s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 134.0.6998.37,,,13-03-2025 10:30:28,13-03-2025 10:30:31,3.134s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:31,13-03-2025 10:30:32,0.842s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 134.0.6998.37,,,13-03-2025 10:30:32,13-03-2025 10:30:32,0.727s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 134.0.6998.37,,,13-03-2025 10:30:32,13-03-2025 10:30:33,0.357s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Login""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:33,13-03-2025 10:30:34,0.943s,PASSED
+,,,,,,,
+Test Cases/Appointment,Chrome 134.0.6998.37,,,13-03-2025 10:30:34,13-03-2025 10:30:46,12.302s,PASSED
+"callTestCase(findTestCase(""Login""), [:], STOP_ON_FAILURE)",Chrome 134.0.6998.37,,,13-03-2025 10:30:34,13-03-2025 10:30:41,7.368s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107""), ""Hongkong CURA Healthcare Center"", true)",Chrome 134.0.6998.37,,,13-03-2025 10:30:41,13-03-2025 10:30:42,1.079s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:42,13-03-2025 10:30:42,0.295s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/label_Medicaid""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:42,13-03-2025 10:30:43,0.300s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:43,13-03-2025 10:30:43,0.326s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/td_31""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:43,13-03-2025 10:30:44,0.535s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment""), ""Janji Untuk pengecekan kesehatan"")",Chrome 134.0.6998.37,,,13-03-2025 10:30:44,13-03-2025 10:30:44,0.787s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/button_Book Appointment""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:44,13-03-2025 10:30:45,0.615s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/appointment.php#summary"")",Chrome 134.0.6998.37,,,13-03-2025 10:30:45,13-03-2025 10:30:45,0.027s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Go to Homepage""))",Chrome 134.0.6998.37,,,13-03-2025 10:30:45,13-03-2025 10:30:46,0.854s,PASSED
