@@ -1,0 +1,45 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DEMO QA FORM_LOGIN,Chrome 134.0.6998.37,,,13-03-2025 14:04:31,13-03-2025 14:15:11,10m - 39.881s,FAILED
+,,,,,,,
+Test Cases/Web Demo QA Login,Chrome 134.0.6998.37,,,13-03-2025 14:07:58,13-03-2025 14:09:20,1m - 22.253s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 14:07:58,13-03-2025 14:07:59,1.036s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 134.0.6998.37,,,13-03-2025 14:07:59,13-03-2025 14:08:36,37.325s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Forms""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:36,13-03-2025 14:08:37,0.782s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Practice Form""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:37,13-03-2025 14:08:39,1.820s,PASSED
+"scrollToPosition(0, 450)",Chrome 134.0.6998.37,,,13-03-2025 14:08:39,13-03-2025 14:08:39,0.017s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Name_firstName""), ""Yusuf"")",Chrome 134.0.6998.37,,,13-03-2025 14:08:39,13-03-2025 14:08:40,1.700s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Name_lastName""), ""Rangkuti"")",Chrome 134.0.6998.37,,,13-03-2025 14:08:40,13-03-2025 14:08:41,0.583s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Email_userEmail""), ""clay@gmail.com"")",Chrome 134.0.6998.37,,,13-03-2025 14:08:41,13-03-2025 14:08:42,0.566s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/label_Male""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:42,13-03-2025 14:08:42,0.354s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_(10 Digits)_userNumber""), ""0892781727"")",Chrome 134.0.6998.37,,,13-03-2025 14:08:42,13-03-2025 14:08:43,0.569s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Date of Birth_dateOfBirthInput""), ""13 Mar 2025"")",Chrome 134.0.6998.37,,,13-03-2025 14:08:43,13-03-2025 14:08:43,0.901s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/input_Date of Birth_dateOfBirthInput""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:43,13-03-2025 14:08:44,0.542s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_13""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:44,13-03-2025 14:08:44,0.319s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Subjects_subjects-auto-complete__value-_d244cf""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:44,13-03-2025 14:08:45,0.317s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Subjects_subjectsInput""), ""e"")",Chrome 134.0.6998.37,,,13-03-2025 14:08:45,13-03-2025 14:08:45,0.777s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Chemistry""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:45,13-03-2025 14:08:46,0.548s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/label_Sports""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:46,13-03-2025 14:08:47,0.598s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/textarea_Current Address_currentAddress""), ""testing123"")",Chrome 134.0.6998.37,,,13-03-2025 14:08:47,13-03-2025 14:08:47,0.581s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/button_Submit""))",Chrome 134.0.6998.37,,,13-03-2025 14:08:47,13-03-2025 14:09:20,32.900s,FAILED
+,,,,,,,
+Test Cases/DemoQA Form,Chrome 134.0.6998.37,,,13-03-2025 14:09:20,13-03-2025 14:10:04,44.108s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 14:09:20,13-03-2025 14:09:21,1.062s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 134.0.6998.37,,,13-03-2025 14:09:21,13-03-2025 14:09:58,36.507s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Elements""))",Chrome 134.0.6998.37,,,13-03-2025 14:09:58,13-03-2025 14:09:59,0.837s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Text Box""))",Chrome 134.0.6998.37,,,13-03-2025 14:09:59,13-03-2025 14:10:00,1.540s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Full Name_userName""), ""Yusuf Rangkuti"")",Chrome 134.0.6998.37,,,13-03-2025 14:10:00,13-03-2025 14:10:02,1.749s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Email_userEmail""), ""rangkuti289@gmail.com"")",Chrome 134.0.6998.37,,,13-03-2025 14:10:02,13-03-2025 14:10:02,0.577s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/textarea_Current Address_currentAddress""), ""VILLA PADURENAN INDAH 3 "")",Chrome 134.0.6998.37,,,13-03-2025 14:10:02,13-03-2025 14:10:03,0.570s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/textarea_Permanent Address_permanentAddress""), ""VILLA PADURENAN INDAH 3 "")",Chrome 134.0.6998.37,,,13-03-2025 14:10:03,13-03-2025 14:10:04,0.574s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/button_Submit""))",Chrome 134.0.6998.37,,,13-03-2025 14:10:04,13-03-2025 14:10:04,0.312s,PASSED
+closeBrowser(),Chrome 134.0.6998.37,,,13-03-2025 14:10:04,13-03-2025 14:10:04,0.277s,PASSED
+,,,,,,,
+Test Cases/DEMOQA Selectable,Chrome 134.0.6998.37,,,13-03-2025 14:13:56,13-03-2025 14:15:11,1m - 15.061s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 14:13:56,13-03-2025 14:13:57,1.059s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 134.0.6998.37,,,13-03-2025 14:13:57,13-03-2025 14:14:33,36.405s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Interactions""))",Chrome 134.0.6998.37,,,13-03-2025 14:14:33,13-03-2025 14:14:34,0.838s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Selectable""))",Chrome 134.0.6998.37,,,13-03-2025 14:14:34,13-03-2025 14:14:36,1.593s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Cras justo odio""))",Chrome 134.0.6998.37,,,13-03-2025 14:14:36,13-03-2025 14:14:36,0.576s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Morbi leo risus""))",Chrome 134.0.6998.37,,,13-03-2025 14:14:36,13-03-2025 14:14:37,1.233s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Dapibus ac facilisis in""))",Chrome 134.0.6998.37,,,13-03-2025 14:14:37,13-03-2025 14:14:38,0.350s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Porta ac consectetur ac""))",Chrome 134.0.6998.37,,,13-03-2025 14:14:38,13-03-2025 14:15:11,32.989s,FAILED

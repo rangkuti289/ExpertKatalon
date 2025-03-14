@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SWAG Checkout Barang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ee6795d-a188-44c9-92f9-99325038e4c3</testCaseGuid>
+</TestCaseEntity>

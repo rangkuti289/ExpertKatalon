@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>DEMO QA FORM_LOGIN</name>
+   <name>SWAG Website</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,26 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>75288daa-2ae6-41d1-b336-704d751b6c9e</testSuiteGuid>
+   <testSuiteGuid>e5b01157-6d8c-4ee6-8bf8-1411b20ca918</testSuiteGuid>
    <testCaseLink>
-      <guid>6b9414ab-41b5-45c0-869f-e3058a647351</guid>
+      <guid>27d65e3e-1e00-4887-974e-27a935b01d4b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Web Demo QA Login</testCaseId>
+      <testCaseId>Test Cases/SWAG Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8e27c852-c6fe-466a-83ae-3e41009ee6ca</guid>
+      <guid>3862f3eb-82f7-4917-9284-de291afac679</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DemoQA Form</testCaseId>
+      <testCaseId>Test Cases/SWAG Pilih barang</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2f76156c-977f-4bd6-b451-0c06fb9bb855</guid>
+      <guid>7cec6426-8bb0-4cfd-b41a-ddfb59fcedfa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DEMOQA Selectable</testCaseId>
+      <testCaseId>Test Cases/SWAG Checkout Barang</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

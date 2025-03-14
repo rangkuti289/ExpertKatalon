@@ -1,0 +1,54 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DEMO QA FORM_LOGIN,Chrome 134.0.6998.37,,,13-03-2025 13:29:45,13-03-2025 13:43:21,13m - 35.415s,FAILED
+,,,,,,,
+Test Cases/Web Demo QA Login,Chrome 134.0.6998.37,,,13-03-2025 13:32:33,13-03-2025 13:34:17,1m - 43.639s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 13:32:33,13-03-2025 13:32:34,0.959s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 134.0.6998.37,,,13-03-2025 13:32:34,13-03-2025 13:34:05,1m - 30.751s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Forms""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:05,13-03-2025 13:34:06,0.830s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Practice Form""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:06,13-03-2025 13:34:08,2.044s,PASSED
+"scrollToPosition(0, 450)",Chrome 134.0.6998.37,,,13-03-2025 13:34:08,13-03-2025 13:34:08,0.012s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Name_firstName""), ""Yusuf"")",Chrome 134.0.6998.37,,,13-03-2025 13:34:08,13-03-2025 13:34:09,1.726s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Name_lastName""), ""Rangkuti"")",Chrome 134.0.6998.37,,,13-03-2025 13:34:09,13-03-2025 13:34:10,0.575s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Email_userEmail""), ""clay@gmail.com"")",Chrome 134.0.6998.37,,,13-03-2025 13:34:10,13-03-2025 13:34:11,0.599s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/label_Male""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:11,13-03-2025 13:34:11,0.351s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_(10 Digits)_userNumber""), ""0892781727"")",Chrome 134.0.6998.37,,,13-03-2025 13:34:11,13-03-2025 13:34:11,0.562s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Date of Birth_dateOfBirthInput""), ""13 Mar 2025"")",Chrome 134.0.6998.37,,,13-03-2025 13:34:11,13-03-2025 13:34:13,1.043s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/input_Date of Birth_dateOfBirthInput""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:13,13-03-2025 13:34:13,0.426s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_13""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:13,13-03-2025 13:34:13,0.326s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Subjects_subjects-auto-complete__value-_d244cf""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:13,13-03-2025 13:34:14,0.331s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Subjects_subjectsInput""), ""e"")",Chrome 134.0.6998.37,,,13-03-2025 13:34:14,13-03-2025 13:34:14,0.776s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Chemistry""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:14,13-03-2025 13:34:15,0.665s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/label_Sports""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:15,13-03-2025 13:34:16,0.547s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/textarea_Current Address_currentAddress""), ""testing123"")",Chrome 134.0.6998.37,,,13-03-2025 13:34:16,13-03-2025 13:34:16,0.571s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/button_Submit""))",Chrome 134.0.6998.37,,,13-03-2025 13:34:16,13-03-2025 13:34:16,0.354s,PASSED
+closeBrowser(),Chrome 134.0.6998.37,,,13-03-2025 13:34:16,13-03-2025 13:34:17,0.179s,PASSED
+,,,,,,,
+Test Cases/DemoQA Form,Chrome 134.0.6998.37,,,13-03-2025 13:35:33,13-03-2025 13:36:18,44.535s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 13:35:33,13-03-2025 13:35:34,1.123s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 134.0.6998.37,,,13-03-2025 13:35:34,13-03-2025 13:36:11,36.997s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Elements""))",Chrome 134.0.6998.37,,,13-03-2025 13:36:11,13-03-2025 13:36:12,0.850s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Text Box""))",Chrome 134.0.6998.37,,,13-03-2025 13:36:12,13-03-2025 13:36:14,1.579s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Full Name_userName""), ""Yusuf Rangkuti"")",Chrome 134.0.6998.37,,,13-03-2025 13:36:14,13-03-2025 13:36:16,1.694s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Email_userEmail""), ""rangkuti289@gmail.com"")",Chrome 134.0.6998.37,,,13-03-2025 13:36:16,13-03-2025 13:36:16,0.580s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/textarea_Current Address_currentAddress""), ""VILLA PADURENAN INDAH 3 "")",Chrome 134.0.6998.37,,,13-03-2025 13:36:16,13-03-2025 13:36:17,0.575s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/textarea_Permanent Address_permanentAddress""), ""VILLA PADURENAN INDAH 3 "")",Chrome 134.0.6998.37,,,13-03-2025 13:36:17,13-03-2025 13:36:17,0.581s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/button_Submit""))",Chrome 134.0.6998.37,,,13-03-2025 13:36:17,13-03-2025 13:36:18,0.304s,PASSED
+closeBrowser(),Chrome 134.0.6998.37,,,13-03-2025 13:36:18,13-03-2025 13:36:18,0.232s,PASSED
+,,,,,,,
+Test Cases/DEMOQA Selectable,Chrome 134.0.6998.37,,,13-03-2025 13:40:14,13-03-2025 13:41:26,1m - 12.006s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 13:40:14,13-03-2025 13:40:15,0.987s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 134.0.6998.37,,,13-03-2025 13:40:15,13-03-2025 13:40:51,35.707s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Interactions""))",Chrome 134.0.6998.37,,,13-03-2025 13:40:51,13-03-2025 13:40:52,0.748s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Selectable""))",Chrome 134.0.6998.37,,,13-03-2025 13:40:52,13-03-2025 13:40:53,1.643s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Cras justo odio""))",Chrome 134.0.6998.37,,,13-03-2025 13:40:53,13-03-2025 13:41:26,32.909s,FAILED
+,,,,,,,
+Test Cases/DEMOQA sorting,Chrome 134.0.6998.37,,,13-03-2025 13:42:40,13-03-2025 13:43:21,41.090s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.37,,,13-03-2025 13:42:40,13-03-2025 13:42:41,1.078s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Chrome 134.0.6998.37,,,13-03-2025 13:42:41,13-03-2025 13:43:15,34.576s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_Interactions""))",Chrome 134.0.6998.37,,,13-03-2025 13:43:15,13-03-2025 13:43:16,0.880s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/li_Sortable""))",Chrome 134.0.6998.37,,,13-03-2025 13:43:16,13-03-2025 13:43:18,1.887s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_TwoThreeOneFourFiveSix""))",Chrome 134.0.6998.37,,,13-03-2025 13:43:18,13-03-2025 13:43:19,0.342s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_FourTwoThreeOneFiveSix""))",Chrome 134.0.6998.37,,,13-03-2025 13:43:19,13-03-2025 13:43:19,0.722s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_FourTwoThreeOneFiveSix""))",Chrome 134.0.6998.37,,,13-03-2025 13:43:19,13-03-2025 13:43:20,0.773s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/div_SixFourTwoThreeOneFive""))",Chrome 134.0.6998.37,,,13-03-2025 13:43:20,13-03-2025 13:43:21,0.572s,PASSED
+closeBrowser(),Chrome 134.0.6998.37,,,13-03-2025 13:43:21,13-03-2025 13:43:21,0.248s,PASSED

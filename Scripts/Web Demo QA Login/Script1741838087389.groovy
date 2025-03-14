@@ -53,14 +53,6 @@ WebUI.click(findTestObject('Object Repository/Page_DEMOQA/label_Sports'))
 
 WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/textarea_Current Address_currentAddress'), 'testing123')
 
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_Select State_css-1gtu0rj-indicatorContainer'))
-
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_NCR'))
-
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_Select City_css-1gtu0rj-indicatorContainer'))
-
-WebUI.click(findTestObject('Object Repository/Page_DEMOQA/div_Delhi'))
-
 WebUI.click(findTestObject('Object Repository/Page_DEMOQA/button_Submit'))
 
 WebUI.closeBrowser()
