@@ -1,0 +1,27 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SWAG Website,Chrome 134.0.6998.37,,,14-03-2025 10:54:31,14-03-2025 10:54:59,27.787s,PASSED
+,,,,,,,
+Test Cases/SWAG Login,Chrome 134.0.6998.37,,,14-03-2025 10:54:32,14-03-2025 10:54:40,7.940s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.37,,,14-03-2025 10:54:32,14-03-2025 10:54:35,3.192s,PASSED
+"navigateToUrl(""https://www.saucedemo.com/"")",Chrome 134.0.6998.37,,,14-03-2025 10:54:35,14-03-2025 10:54:36,1.259s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_user-name""), ""standard_user"")",Chrome 134.0.6998.37,,,14-03-2025 10:54:36,14-03-2025 10:54:39,2.154s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_password""), ""secret_sauce"")",Chrome 134.0.6998.37,,,14-03-2025 10:54:39,14-03-2025 10:54:39,0.635s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_Swag Labs_login-button""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:39,14-03-2025 10:54:40,0.409s,PASSED
+,,,,,,,
+Test Cases/SWAG Pilih barang,Chrome 134.0.6998.37,,,14-03-2025 10:54:40,14-03-2025 10:54:47,7.539s,PASSED
+"callTestCase(findTestCase(""SWAG Login""), [:], STOP_ON_FAILURE)",Chrome 134.0.6998.37,,,14-03-2025 10:54:40,14-03-2025 10:54:45,5.377s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/button_Add to cart""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:45,14-03-2025 10:54:46,0.521s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/button_Add to cart_1""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:46,14-03-2025 10:54:46,0.508s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/button_Add to cart_1_2""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:46,14-03-2025 10:54:47,0.522s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/a_3""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:47,14-03-2025 10:54:47,0.529s,PASSED
+,,,,,,,
+Test Cases/SWAG Checkout Barang,Chrome 134.0.6998.37,,,14-03-2025 10:54:47,14-03-2025 10:54:59,12.025s,PASSED
+"callTestCase(findTestCase(""SWAG Pilih barang""), [:], STOP_ON_FAILURE)",Chrome 134.0.6998.37,,,14-03-2025 10:54:47,14-03-2025 10:54:54,7.195s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/button_Checkout""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:54,14-03-2025 10:54:55,0.547s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_Checkout Your Information_firstName""), ""Yusuf"")",Chrome 134.0.6998.37,,,14-03-2025 10:54:55,14-03-2025 10:54:56,0.811s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_Checkout Your Information_lastName""), ""Rangkuti"")",Chrome 134.0.6998.37,,,14-03-2025 10:54:56,14-03-2025 10:54:57,0.770s,PASSED
+"setText(findTestObject(""Object Repository/Page_Swag Labs/input_Checkout Your Information_postalCode""), ""14045"")",Chrome 134.0.6998.37,,,14-03-2025 10:54:57,14-03-2025 10:54:57,0.791s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/input_Cancel_continue""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:57,14-03-2025 10:54:58,0.543s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/button_Finish""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:58,14-03-2025 10:54:58,0.511s,PASSED
+"click(findTestObject(""Object Repository/Page_Swag Labs/button_Back Home""))",Chrome 134.0.6998.37,,,14-03-2025 10:54:58,14-03-2025 10:54:59,0.531s,PASSED
+closeBrowser(),Chrome 134.0.6998.37,,,14-03-2025 10:54:59,14-03-2025 10:54:59,0.264s,PASSED

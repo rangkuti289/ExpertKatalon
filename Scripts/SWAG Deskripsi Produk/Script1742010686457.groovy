@@ -19,3 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('SWAG Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/img_Add to cart_inventory_item_img'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Back to products'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/img_Add to cart_inventory_item_img_1'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Back to products'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/img_Add to cart_inventory_item_img_1_2'))
+
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Back to products'))
+
+WebUI.closeBrowser()
+
